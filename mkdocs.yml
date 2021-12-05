@@ -1,0 +1,27 @@
+site_name: dom
+site_url: https://domothy.com/
+docs_dir: content
+site_dir: docs
+theme:
+  name: material
+  custom_dir: 'theme/'
+  logo: assets/images/hexagonboi.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+extra:
+  social:
+    - name: twitter
+      link: https://twitter.com/domothy
+      icon: fontawesome/brands/twitter
+    - name: github
+      link: https://github.com/domothyb
+      icon: fontawesome/brands/github
