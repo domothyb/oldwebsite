@@ -79,3 +79,11 @@ I personally think it's extremely bullish for Ether as an asset to picture peopl
 * Ether captures value created by the people using Ethereum through the burning mechanism
 
 * **Conclusion**: Supply deflation and price appreciation are good for Ether.
+
+### Some more links
+
+* [Concise graph](https://twitter.com/domothy/status/1462988092848156677) representing the long-term model with the moving parts involved, including the burn
+
+* [Justin Drake's tweet](https://twitter.com/drakefjustin/status/1431735094587404292) representing the relationship between Ether's value and Ethereum's utility
+
+* [ultrasound.money](https://ultrasound.money/) to see stats on EIP-1559 burn, what dapps are burning the most, and projections regarding annualized deflation and long-term supply with parameters you can tweak
