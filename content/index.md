@@ -7,3 +7,5 @@ Welcome to [@domothy](https://twitter.com/domothy)'s website where I freely ramb
 I first started diving down the ETH rabbithole (several rabbitholes, really) and became a fervant Ethereum apologist on reddit, then on twitter, then now i guess i wanna own my content if that makes sense. At some point repeating the same thing to reddit trolls gets old and twitter threads are a terrible format to share large amount of information. So I'll just write stuff here and link to it whenever the same topics inevitably get brought up. Expect the quality of writing to vary wildly depending on my intention with each individual post.
 
 I also intend to use this website as a repository of neat things I find and keep track of them [here](resources).
+
+Not sure if this actually matters, but: none of the content on this website is to be taken as financial advice
