@@ -25,3 +25,6 @@ extra:
     - name: github
       link: https://github.com/domothyb
       icon: fontawesome/brands/github
+    - name: ethereum
+      link: https://etherscan.io/address/domothy.eth
+      icon: fontawesome/brands/ethereum
