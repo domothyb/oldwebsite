@@ -62,7 +62,7 @@ I personally think it's extremely bullish for Ether as an asset to picture peopl
 
 ### Summary
 
-* Ether's supply is not inherently deflationary, it self-adjusts depending on usage and stakers
+* Ether's supply is not inherently deflationary, it self-adjusts depending on blockchain usage and stakers
 
 * That said, it *will* be deflationary for many years after the switch to proof-of-stake
 
@@ -70,15 +70,15 @@ I personally think it's extremely bullish for Ether as an asset to picture peopl
 
 * Ethereum offers a valuable product: secure, credibly-neutral, permissionless blockspace
 
-* Whoever wants to use this product has to spend Ether, a good majority of which is burned
+* Whoever wants to use this product has to spend Ether, a majority of which is burned
 
 * The most cost-efficient way (in dollar terms) to use Ethereum is to buy Ether at today's price and stake it to have more Ether to spend later
 
-* A higher value of Ether represents more network security by virtue of the proof-of-stake collateral value being higher
+* A higher value of Ether represents more network security by virtue of the proof-of-stake collateral value being higher as well
 
-* Ether captures value created by the people using Ethereum through the burning mechanism
+* Ether captures value created by the people using Ethereum through the fee burning mechanism
 
-* **Conclusion**: Supply deflation and price appreciation are good for Ether.
+* **Conclusion**: Supply deflation and price appreciation are good for Ethereum as a whole
 
 ### Some more links
 
