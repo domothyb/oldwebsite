@@ -68,6 +68,8 @@ The ecosystem moves so fast that sometimes you want to look back at a tweet/char
 
 * [Justin Drake's projection spreadsheets](https://docs.google.com/spreadsheets/d/1vrK5sY5ooq-F8dcyRhmmAJ5YtgkvWKWP3OfGCZIYxSA/edit#gid=0) regarding supply, burn, issuance, etc.
 
+* [Vitalik's tweet with PoS issuance formula w.r.t total ETH staked](https://twitter.com/vitalikbuterin/status/1326444925957754880)
+
 * [Math behind long-term supply equilibrium](https://ethresear.ch/t/circulating-supply-equilibrium-for-ethereum-and-minimum-viable-issuance-during-the-proof-of-stake-era/10954)
 
 * [What is an NFT?](https://mobile.twitter.com/punk6529/status/1451896453065023493)
