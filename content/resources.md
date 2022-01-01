@@ -26,6 +26,8 @@ The ecosystem moves so fast that sometimes you want to look back at a tweet/char
 
 ## Rollups
 
+* [Layer 2 cheat sheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4)
+
 * [The ultimate guide to L2s on Ethereum](https://mirror.xyz/dcbuilder.eth/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0) for all things rollups
 
 * [Sustanability of rollups + shards](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48) for why monolithic blockchains can't scale sustainably
@@ -64,7 +66,24 @@ The ecosystem moves so fast that sometimes you want to look back at a tweet/char
 
 * [More point-by-point response to misinformation](https://www.reddit.com/r/ethereum/comments/r9dndo/is_ethereums_decentralization_enough_what_do_you/hncj3il/?context=3)
 
+## Interviews/Talks/Conferences
+
+* [Vitalik – Things that matter outside of DeFi](https://www.youtube.com/watch?v=oLsb7clrXMQ)
+
+* [Vitalik – Conference in Argentina](https://www.youtube.com/watch?v=oLsb7clrXMQ)
+
+    * [47:17](https://youtu.be/tdTyELiPqPo?t=2837) — 2016 Shanghai attacks and how Ethereum reacted and adapted
+"*every new chain that exists is eventually going to get their Shanghai attacker*"
+
+    * [50:44](https://youtu.be/tdTyELiPqPo?t=3044) – Open invitation to BSC to implement EVM parallelization via EIP-648
+
+* [Tim Beiko – Bankless Layer 0](https://www.youtube.com/watch?v=Js_TjVW8VD4)
+
+    * [1:11:18](https://youtu.be/Js_TjVW8VD4?t=4277) – Who can contribue EIPs and how
+
 ## Other things of interest
+
+* [Has EIP-1559 Fulfilled Its Objectives?](https://pintail.xyz/posts/gas-market-analysis/)
 
 * [Justin Drake's projection spreadsheets](https://docs.google.com/spreadsheets/d/1vrK5sY5ooq-F8dcyRhmmAJ5YtgkvWKWP3OfGCZIYxSA/edit#gid=0) regarding supply, burn, issuance, etc.
 

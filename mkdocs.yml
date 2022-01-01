@@ -22,9 +22,18 @@ extra:
     - name: twitter
       link: https://twitter.com/domothy
       icon: fontawesome/brands/twitter
+    - name: reddit
+      link: https://www.reddit.com/user/domotheus
+      icon: fontawesome/brands/reddit
+    - name: telegram
+      link: https://t.me/domothy
+      icon: fontawesome/brands/telegram
     - name: github
       link: https://github.com/domothyb
       icon: fontawesome/brands/github
     - name: ethereum
       link: https://etherscan.io/address/domothy.eth
       icon: fontawesome/brands/ethereum
+    - name: email
+      link: mailto:domothyb@protonmail.com
+      icon: fontawesome/regular/envelope
