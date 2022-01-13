@@ -14,9 +14,15 @@ The ecosystem moves so fast that sometimes you want to look back at a tweet/char
 
 * [Huge roadmap diagram with progress as of December 2nd 2021](https://twitter.com/VitalikButerin/status/1466411377107558402)
 
+### Proof of Stake
+
+* [Why Proof of Stake](https://vitalik.ca/general/2020/11/06/pos2020.html)
+
+* [Weak Subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) and related [twitter thread](https://twitter.com/lightclients/status/1462576116359569411) on history expiry
+
 ## Specification
 
-* [Annotated spec](https://github.com/ethereum/annotated-spec) for a slightly more accessible version of the spec
+* [Annotated spec](https://github.com/ethereum/annotated-spec) for a *slightly* more accessible version of the spec
 
 * [London fork](https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/london.md)
 
