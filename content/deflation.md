@@ -10,7 +10,7 @@ Title: Deflationary Ether
 
 First, the important nitpick: Ether's supply is not inherently deflationary. It self-adjusts based on the following variables: number of stakers and demand for blockspace. Right now, the first variable doesn't come into play as the consensus is still achieved by proof-of-work, with 2 new ETH being issued roughly every 13 seconds.
 
-During times of high blockchain activity, the rate of burning outpaces the rate of issuance. But in general, the supply still inflates, just at a lower rate than before EIP-1559 was implemented.
+During times of high blockchain activity, the rate of burning outpaces the rate of issuance. But in general, the supply still inflates, just at a lower rate than before EIP-1559 was implemented. In other words, Ether only becomes deflationary when it's actively being used. If deflation is bad for spending, then overall spending will reduce and it will go back to being inflationary.
 
 After the network switches to proof-of-stake, the issuance will drop drastically (around 90%) and Ether should become deflationary for many years – possibly decades – until there comes a point where the rate of burning equals the rate of issuance. The [best math available](https://ethresear.ch/t/circulating-supply-equilibrium-for-ethereum-and-minimum-viable-issuance-during-the-proof-of-stake-era/10954) shows this will happen anywhere between 40 and 60 million Ether.
 
